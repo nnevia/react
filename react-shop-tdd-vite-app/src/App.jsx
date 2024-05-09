@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import OrderPage from "./pages/OrderPage/OrderPage";
 import {OrderContextProvider} from './contexts/OrderContext';
 import SummaryPage from "./pages/SummaryPage/SummaryPage";
